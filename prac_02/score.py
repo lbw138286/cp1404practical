@@ -23,7 +23,6 @@ def determine_result(score):
 def get_score():
     while True:
         score_input = input("Enter score: ")
-
         if score_input.replace('.', '', 1).isdigit() and score_input.count('.') < 2:  # To allow float input
             return float(score_input)
         else:
