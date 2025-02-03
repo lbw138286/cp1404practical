@@ -1,5 +1,4 @@
 MIN_LENGTH = 8
-
 def main():
     password = input("Enter your password: ")
 
@@ -8,5 +7,4 @@ def main():
         password = input("Enter your password: ")
 
     print('*' * len(password))
-
 main()
