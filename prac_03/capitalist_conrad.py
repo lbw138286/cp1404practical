@@ -18,7 +18,6 @@ The price should be displayed to the nearest cent (e.g. $33.59, not $33.59182329
 """
 import random
 
-# Constants
 START_PRICE = 10.00
 MIN_PRICE = 1.00
 MAX_PRICE = 100.00
