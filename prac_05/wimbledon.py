@@ -17,7 +17,7 @@ def main():
 def read_csv_file(filename):
     with open(filename, "r", encoding="utf-8-sig") as in_file:
         reader = csv.reader(in_file)
-        next(reader)  # Skip the header row
+        next(reader)
         data = [row for row in reader]
     return data
 
