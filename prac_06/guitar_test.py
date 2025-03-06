@@ -22,3 +22,4 @@ def main():
         f"{another_guitar.name} is_vintage() - Expected {expect_vintage_another_guitar}. Got {real_vintage_another_guitar}.")
 
 main()
+#
