@@ -22,3 +22,4 @@ I will stop using some tools like chatgpt,grok and deepseek...
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
 I want to be a professional IT personnel, so I hope to learn more about computer knowledge, I suggest that the school also hold more activities about IT content
+#
