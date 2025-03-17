@@ -116,7 +116,6 @@ def save_if_needed(projects):
     save_choice = input(f"Would you like to save to {FILENAME}? (y/n): ").strip().lower()
     if save_choice == "y":
         save_projects(FILENAME, projects)
-
 if __name__ == "__main__":
     main()
 

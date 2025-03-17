@@ -46,5 +46,4 @@ def main():
     guitars = read_guitar(filename)
     display_guitars(guitars)
 
-
 main()

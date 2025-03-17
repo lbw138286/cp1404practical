@@ -85,4 +85,5 @@ def using_csv_namedtuple():
         print(language.name, 'was released in', language.year)
         print(repr(language))
 
+
 # using_csv_namedtuple()
