@@ -24,4 +24,3 @@ class Project:
     def is_complete(self):
         """Return True if the project is 100% complete."""
         return self.completion == 100
-#
