@@ -17,6 +17,3 @@ I'm Yuzhe Fu, I,m a student of Internet technology. My goal is to improve my cod
 - [Programming Patterns]https://github.com/lbw138286/cp1404practical
 - [CP1404 Practicals Instructions]https://github.com/lbw138286/cp1404practical
 Practical work for IT@JCU CP1404
-  
-
- 
